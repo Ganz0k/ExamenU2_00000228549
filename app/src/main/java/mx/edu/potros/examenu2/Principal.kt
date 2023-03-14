@@ -53,6 +53,4 @@ class Principal : AppCompatActivity() {
             startActivity(intent)
         }
     }
-
-
 }
